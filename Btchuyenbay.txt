@@ -1,0 +1,17 @@
+Bài 1: Khai báo kiểu dữ liệu để biểu diễn thôgn tin một chuyến bay biết rằng một chuyến bay bao gỗm những thông tin như sau:
+Mã chuyến bay: tối đa 5 kí tự
+Họ tên hành khách: chuỗi tối đa 30 kĩ tự
+Ngày bay: chuỗi định dạng - VD: 30/04/2019
+Giờ bay: chuỗi định dạng - VD: 20:39:67
+Nơi đi: Chuỗi tối đa 20 kí tự
+nơi đến: chuỗi tối đa 20 kí tự
+
+1. nhập danh sách thông tin chuyến bay
+2. xuất danh sách thông tin chuyến bay
+3. xoá chuyến bay có mã chuyến bay bất kì
+4. thêm chuyến bay vào danh sách
+5. sắp xếp danh sách chuyến bay tăng dần theo năm bay
+6. Tìm kiếm các chuyến bay với ngày bay bất kì
+7. Tìm kiếm các chuyến bay với mã chuyến bay bất kì
+8. Tìm kiếm các chuyến bay trong khoảng thời gian (x, y) cho trước
+9. Tìm kiếm thông tin chuyến bay có họ tên hành khách có chữ cái trong họ tên cần tìm kiếm
